@@ -9,13 +9,13 @@ I learnt how to work in teams, use industry tools, facilitate simple agile proce
 
 Skills I learnt
 -----------------
-Object-oriented design
-Fundamentals of building interactive websites
-HTML request/response frameworks and APIs
-Working with databases
-Introduction to algorithms
-Client-side programming
-Scalable design patterns
-Deployment techniques
-Test-driven development
-Agile collaboration and workflows 
+- Object-oriented design
+- Fundamentals of building interactive websites
+- HTML request/response frameworks and APIs
+- Working with databases
+- Introduction to algorithms
+- Client-side programming
+- Scalable design patterns
+- Deployment techniques
+- Test-driven development
+- Agile collaboration and workflows 
