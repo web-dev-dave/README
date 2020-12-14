@@ -1,5 +1,6 @@
 # README
 About myself
+https://www.linkedin.com/in/david-steel-7b1a50201/
 
 I am a recent graduate full stack web developer looking to make his mark on the world. Passionate and hungry to enter the industry with a leaning towards making a positive social impact. I am eager and driven to work within a team whether it is a start-up or a well-established company that aligns with the same views. Let's catch up for a coffee to talk about it!
 
